@@ -24,15 +24,15 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
     switch (license) {
         case "MIT":
-            return `https://opensource.org/licenses/MIT`
+            return "https://opensource.org/licenses/MIT"
         break;
 
         case "Apache 2.0":
-            return `https://opensource.org/licenses/Apache-2.0`
+            return "https://opensource.org/licenses/Apache-2.0"
         break;
 
         case "Halloween":
-            return `https://img.shields.io/badge/badge-halloween-orange`
+            return "https://img.shields.io/badge/badge-halloween-orange"
         break;
 
         default:

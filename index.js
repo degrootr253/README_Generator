@@ -42,7 +42,7 @@ const questions = [{
   },
   {
     type: 'input',
-    name: 'contributing',
+    name: 'contributors',
     message: 'Enter your Contributors information.',
   },
   {
