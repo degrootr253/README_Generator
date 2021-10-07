@@ -10,7 +10,7 @@ This application will allow you to create a README.md file based on the input in
 JavaScript, Node, npm
 
 ## Video
-[https://watch.screencastify.com/v/Ued9hNo32xQeMxJwWqK0]
+(https://watch.screencastify.com/v/Ued9hNo32xQeMxJwWqK0)
 
 ## License 
 
